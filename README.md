@@ -16,4 +16,4 @@ This Streamlit web application predicts the number of kilocalories burned during
 - **Numpy**: Numerical operations.
 
 ## Installation ⚙️
-1. Clone the repository:
+1. Clone the repository:https://github.com/Anshulhalkarni/Implementation-of-Personal-Fitness-Tracker-P3-.git
